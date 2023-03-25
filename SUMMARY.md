@@ -16,5 +16,3 @@
   * [✈ Travel to Prague](travel-accommodation/travel-to-prague.md)
   * [🚃 Prague public transport](travel-accommodation/prague-public-transport.md)
   * [🛏 Accommodations](travel-accommodation/accommodations.md)
-* [🔗 Links](links/README.md)
-  * [💬 Telegram group](https://t.me/+2bPk0y1790JkMTE0)
