@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📘 Hackers Manual](README.md)
+* [📘 Hacker Manual](README.md)
   * [🕗 Schedule](hackers-manual/schedule.md)
   * [⚔ Hackathon Rules](hackers-manual/hackathon-rules.md)
   * [🫂 Finding a Team](hackers-manual/finding-a-team.md)
