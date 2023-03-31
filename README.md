@@ -29,13 +29,13 @@ The capacity of the hackathon will be approximately **500 hackers**.&#x20;
 
 We encourage projects that address **sustainability**, **local economies**, **urban issues**, and any other ideas that contribute to a way leading to a **Solarpunk** utopia.
 
-<mark style="color:blue;">The exact tracks will be announced few weeks before the hackathon.</mark>
+<mark style="color:blue;">The exact tracks will be announced soon.</mark>
 
 
 
 The hackathon will take place in an offline form in order to ensure the best possible networking and cooperation. However, we do not rule out remote participation if at least one team member is present on site.&#x20;
 
-Only confirmed hackers who can participate to the hackathon. Please review hackathon rules [here](hackers-manual/hackathon-rules.md).
+Only confirmed hackers can participate to the hackathon. Please review hackathon rules [here](hackers-manual/hackathon-rules.md).
 
 
 
