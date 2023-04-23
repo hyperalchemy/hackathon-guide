@@ -1,3 +1,2 @@
 # 🏆 Prizes & bounties
 
-****

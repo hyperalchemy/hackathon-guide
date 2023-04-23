@@ -19,6 +19,8 @@ The hackathon takes place on Friday - Sunday June 9-11, 2023 and we would be hap
 * assist hackers on site
 * help hackers through our [Hackathon Telegram group](https://t.me/+2bPk0y1790JkMTE0)
 
-Thank you for being part of our hackathon and helping hackers make their projects even better!
 
-Do you have any questions? Do you have any questions? Feel free to contact the people responsible for the hackathon - [@hyperalchemy](https://t.me/hyperalchemy)
+
+If you'd like to be a mentor reach out to Ceci [@hyperalchemy](https://t.me/hyperalchemy) / [ceci@ethprague.com](mailto:ceci@ethprague.com) or ETHPrague team [contact@ethprague.com](mailto:contact@ethprague.com)
+
+Thank you for being part of our hackathon and helping hackers make their projects even better!

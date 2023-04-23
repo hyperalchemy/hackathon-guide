@@ -4,18 +4,23 @@ description: schedule is currently being reviewed, and will be updated soon
 
 # 🕗 Schedule
 
-### **Friday June 9th**
+{% hint style="info" %}
+final schedule to be updated soon
+{% endhint %}
 
-* Registration Opens
-* Opening ceremony
-* Team formation workshop
+### **Friday - June 9th**
 
-### **Saturday June 10th**
+* **Registration opens**
+* **Opening ceremony**
+* Team formation workshop &#x20;
 
-* Project showcase & Open mic
+### **Saturday - June 10th**
 
-### **Sunday June 11th**
+* Project showcase & Open mic (TBD)
 
-* Quadratic voting intro & how&#x20;
-* Project submission deadline
-* Closing ceremony & Winners announcement
+### **Sunday - June 11th**
+
+* **Project submission deadline**
+* Project Judging
+* Quadratic voting intro & how to vote
+* **Closing ceremony & Winners announcement**&#x20;
