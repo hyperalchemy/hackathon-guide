@@ -5,7 +5,7 @@
   * [🏨 Venues](hackers-manual/venues.md)
   * [🗺 Orientation Map](hackers-manual/orientation-map.md)
   * [🍽 Food and drinks](hackers-manual/food-and-drinks.md)
-  * [📶 Internet / Mobile data](hackers-manual/internet-mobile-data.md)
+  * [📶 Wi-Fi Access](hackers-manual/wi-fi-access.md)
   * [⚖ Hackathon Rules](hackers-manual/hackathon-rules.md)
   * [🏆 Prizes & bounties](hackers-manual/prizes-and-bounties.md)
   * [🫂 Finding a Team](hackers-manual/finding-a-team.md)

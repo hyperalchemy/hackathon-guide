@@ -67,8 +67,8 @@ ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.par
 [food-and-drinks.md](hackers-manual/food-and-drinks.md)
 {% endcontent-ref %}
 
-{% content-ref url="hackers-manual/internet-mobile-data.md" %}
-[internet-mobile-data.md](hackers-manual/internet-mobile-data.md)
+{% content-ref url="hackers-manual/wi-fi-access.md" %}
+[wi-fi-access.md](hackers-manual/wi-fi-access.md)
 {% endcontent-ref %}
 
 {% content-ref url="hackers-manual/hackathon-rules.md" %}
