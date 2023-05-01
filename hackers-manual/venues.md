@@ -2,12 +2,12 @@
 
 ETHPrague 2023 has two main locations very close to each other:
 
-* Conference - Paralelni Polis
-* Hacker house - VNITROBLOCK&#x20;
+* Conference - Paralelni Polis and LaFabrika
+* **Hacker house - VNITROBLOCK**
+
+
 
 ### Conference - Paralelni Polis Conference&#x20;
-
-Conference and registration will be held in Paralelni Polis.
 
 * Address: 475/43, Dělnická, 170 00 Praha 7-Holešovice
 
@@ -15,7 +15,7 @@ Conference and registration will be held in Paralelni Polis.
 All hackers automatically have free access to the conference as well!
 {% endhint %}
 
-&#x20;\<photo>
+&#x20;
 
 ## Hacker House - VNITROBLOCK
 
@@ -25,12 +25,10 @@ Please note we can use the north entrance as displayed in the map
 
 * Address: 32 Dělnická, 170 00 Praha 7-Holešovice [https://goo.gl/maps/5TWmcYYGZbgTxp526](https://goo.gl/maps/5TWmcYYGZbgTxp526)
 
-\<photo>
 
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## Orientation map
-
-{% content-ref url="orientation-map.md" %}
-[orientation-map.md](orientation-map.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

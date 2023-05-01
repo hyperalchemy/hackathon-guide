@@ -1,2 +1,0 @@
-# ✈ Travel to Prague
-

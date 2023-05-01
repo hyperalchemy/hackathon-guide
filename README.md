@@ -14,7 +14,7 @@ description: Come hack a solarpunk future - 9-11 June, 2023!
 
 ### During the hackathon - June 9-11, 2023
 
-* Register at main [conference venue](hackers-manual/venues.md)
+* **Register** at main [conference venue](hackers-manual/venues.md)
 * Mint your unique SBT token for Quadratic Voting
 * Take advantage of our [mentors](hackers-manual/mentors/)
 * [Submit your project](hackers-manual/submissions.md) before 11th June 12:00PM&#x20;
@@ -41,7 +41,7 @@ Please review hackathon rules [here](hackers-manual/hackathon-rules.md).&#x20;
 
 We encourage projects that address **sustainability**, **local economies**, **urban issues**, and any other ideas that contribute to a way leading to a **Solarpunk** utopia.
 
-<mark style="color:orange;">The exact tracks will be announced soon.</mark>
+<mark style="color:orange;">The exact awards will be announced soon.</mark>
 
 Voting on the quality of individual projects will not only be up to dedicated judges, but will also be decided by the hackathon participants themselves through quadratic voting.
 
@@ -57,10 +57,6 @@ ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.par
 
 {% content-ref url="hackers-manual/venues.md" %}
 [venues.md](hackers-manual/venues.md)
-{% endcontent-ref %}
-
-{% content-ref url="hackers-manual/orientation-map.md" %}
-[orientation-map.md](hackers-manual/orientation-map.md)
 {% endcontent-ref %}
 
 {% content-ref url="hackers-manual/food-and-drinks.md" %}
@@ -101,10 +97,6 @@ ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.par
 
 {% content-ref url="hackers-manual/telegram.md" %}
 [telegram.md](hackers-manual/telegram.md)
-{% endcontent-ref %}
-
-{% content-ref url="travel-accommodation/" %}
-[travel-accommodation](travel-accommodation/)
 {% endcontent-ref %}
 
 
