@@ -17,7 +17,7 @@ description: Come hack a solarpunk future - 9-11 June, 2023!
 * **Register** at main [conference venue](hackers-manual/venues.md)
 * Mint your unique SBT token for Quadratic Voting
 * Take advantage of our [mentors](hackers-manual/mentors/)
-* [Submit your project](hackers-manual/submissions.md) before 11th June 12:00PM&#x20;
+* [Submit your project](hackers-manual/submissions.md) before the deadline&#x20;
 
 ### After the project submission deadline
 
