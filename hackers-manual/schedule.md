@@ -16,7 +16,7 @@ final schedule to be updated soon
 
 ### **Saturday - June 10th**
 
-* Project showcase & Open mic (TBD)
+* Project showcase/Open mic (to be confirmed)
 
 ### **Sunday - June 11th**
 

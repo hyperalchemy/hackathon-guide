@@ -45,7 +45,7 @@ We encourage projects that address **sustainability**, **local economies**, **ur
 
 Voting on the quality of individual projects will not only be up to dedicated judges, but will also be decided by the hackathon participants themselves through quadratic voting.
 
-ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.paralelnipolis.cz/en/o-nas/) and [Ducktape Production](https://ducttape.events/)
+ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.paralelnipolis.cz/en/o-nas/) and [Duct Tape Production](https://ducttape.events/)
 
 
 

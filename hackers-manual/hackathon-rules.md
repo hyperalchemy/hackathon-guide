@@ -19,5 +19,5 @@ The hackathon will take place in an offline form in order to ensure the best pos
 ### Minimum requirements to be judged
 
 * A link to the open-source code must be provided
-* A short presentation file must describe your project
+* A short description / presentation file must describe your project
 * If applicable, the contract address(es) of your deployed demo must be provided, either on a testnet of your choice or mainnet of a platform of choice.

@@ -7,7 +7,7 @@ ETHPrague 2023 has two main locations very close to each other:
 
 
 
-### Conference - Paralelni Polis Conference&#x20;
+### Conference - Paralelni Polis (main venue)&#x20;
 
 * Address: 475/43, Dělnická, 170 00 Praha 7-Holešovice
 
