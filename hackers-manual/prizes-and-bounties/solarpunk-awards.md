@@ -1,6 +1,4 @@
-# 🏆 Prizes & bounties
-
-For this year we've prepared the following awards:
+# ☀ Solarpunk Awards
 
 <details>
 
@@ -42,15 +40,3 @@ _This award recognizes projects that focus on advancing the operational capabili
 
 </details>
 
-{% hint style="info" %}
-More info about the prizes and sponsored tracks will be announced soon!!!
-{% endhint %}
-
-* **Hackers Favorite**
-* **Audience Favorite**
-
-_These prizes will be decided by ETHPrague hackers with quadratic voting using the SBT received upon registration._
-
-
-
-\

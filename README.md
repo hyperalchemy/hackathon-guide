@@ -71,8 +71,8 @@ ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.par
 [hackathon-rules.md](hackers-manual/hackathon-rules.md)
 {% endcontent-ref %}
 
-{% content-ref url="hackers-manual/prizes-and-bounties.md" %}
-[prizes-and-bounties.md](hackers-manual/prizes-and-bounties.md)
+{% content-ref url="hackers-manual/prizes-and-bounties/" %}
+[prizes-and-bounties](hackers-manual/prizes-and-bounties/)
 {% endcontent-ref %}
 
 {% content-ref url="hackers-manual/finding-a-team.md" %}
