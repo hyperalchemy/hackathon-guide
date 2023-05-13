@@ -21,6 +21,6 @@ The hackathon takes place on Friday - Sunday June 9-11, 2023 and we would be hap
 
 
 
-If you'd like to be a mentor reach out to Ceci [@hyperalchemy](https://t.me/hyperalchemy) / [ceci@ethprague.com](mailto:ceci@ethprague.com) or ETHPrague team [contact@ethprague.com](mailto:contact@ethprague.com)
+If you'd like to be a mentor reach out to Adam ([@Vorcigernix](https://t.me/Vorcigernix)) or Ceci ([@hyperalchemy](https://t.me/hyperalchemy) / [ceci@ethprague.com](mailto:ceci@ethprague.com)) or ETHPrague team [contact@ethprague.com](mailto:contact@ethprague.com)
 
 Thank you for being part of our hackathon and helping hackers make their projects even better!

@@ -21,14 +21,10 @@ All hackers automatically have free access to the conference as well!
 
 A separate Hacker House will be provided in an adjacent building only 80m from the venue to allow sufficient peace and space for effective work.&#x20;
 
-Please note we can use the north entrance as displayed in the map
+Please note we can **use the north entrance** as displayed in the map
 
 * Address: 32 Dělnická, 170 00 Praha 7-Holešovice [https://goo.gl/maps/5TWmcYYGZbgTxp526](https://goo.gl/maps/5TWmcYYGZbgTxp526)
 
 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
