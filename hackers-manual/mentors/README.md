@@ -12,7 +12,13 @@ All mentors are listed below, including their telegram account through which you
 
 If you don't know who to contact specifically, or have a general question - you can always use our [Telegram group for hackers](https://t.me/+2bPk0y1790JkMTE0).
 
-| Name | Skills | Telegram | Availability |
-| ---- | ------ | -------- | ------------ |
-|      |        |          |              |
-|      |        |          |              |
+{% hint style="info" %}
+List of Mentors is being updated, more to come!
+{% endhint %}
+
+| Name               | Skills                             | Telegram      | Availability |
+| ------------------ | ---------------------------------- | ------------- | ------------ |
+| Muhammed Tanrıkulu | ENS and web3 identities in general | md\_tanrikulu | All 3 days   |
+| Laurence Kirk      | Solidity and Zero Knowledge Proofs | LaurenceKirk  |              |
+|                    |                                    |               |              |
+
