@@ -20,5 +20,6 @@ List of Mentors is being updated, more to come!
 | ------------------ | ---------------------------------- | ------------- | ------------ |
 | Muhammed Tanrıkulu | ENS and web3 identities in general | md\_tanrikulu | All 3 days   |
 | Laurence Kirk      | Solidity and Zero Knowledge Proofs | LaurenceKirk  |              |
+| Naim Ashab         |                                    | ashhanai      |              |
 |                    |                                    |               |              |
 
