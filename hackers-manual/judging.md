@@ -26,12 +26,8 @@ Overall criteria:
 
 These awards will be judged by everyone attending using their ETHPrague Soulbound token received upon registration.
 
-All projects are eligible.
-
 
 
 **Sponsor bounties**
 
 Each bounty sponsor reserves the right to specify their own judging criteria.&#x20;
-
-All projects are eligible.
