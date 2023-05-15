@@ -16,10 +16,11 @@ If you don't know who to contact specifically, or have a general question - you 
 List of Mentors is being updated, more to come!
 {% endhint %}
 
-| Name               | Skills                             | Telegram      | Availability |
-| ------------------ | ---------------------------------- | ------------- | ------------ |
-| Muhammed Tanrıkulu | ENS and web3 identities in general | md\_tanrikulu | All 3 days   |
-| Laurence Kirk      | Solidity and Zero Knowledge Proofs | LaurenceKirk  |              |
-| Naim Ashab         |                                    | ashhanai      |              |
-|                    |                                    |               |              |
+| Name               | Expertise/Skills                                                | Telegram        | Availability                         |
+| ------------------ | --------------------------------------------------------------- | --------------- | ------------------------------------ |
+| Muhammed Tanrıkulu | ENS and web3 identities in general                              | md\_tanrikulu   | All 3 days                           |
+| Laurence Kirk      | Solidity and Zero Knowledge Proofs                              | LaurenceKirk    | TBD                                  |
+| Naim Ashab         | PWN                                                             | ashhanai        | TBD                                  |
+| Mathieu Saugier    | Cairo / Starknet                                                | enitrat         | Unknown yet, reach out via telegram  |
+| Daniel Keszey      | protocol development, Solidity, design, tokenomics, simulations | zombiwagen90210 | 9am - 7pm in person and via Telegram |
 
