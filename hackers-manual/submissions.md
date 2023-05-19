@@ -16,5 +16,5 @@ You have to apply, create your team and project and submit at [ethprague2023.dev
 
 After the registration, your dashboard will become visible, that is the place where you submit and update your project.&#x20;
 
-Make sure to provide a link to your open-source repository, a video or a demo, and if applicable, the contract address(es) of your deployed application, either on a testnet of your choice or mainnet of a platform of choice.&#x20;
+
 
