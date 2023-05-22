@@ -1,5 +1,5 @@
 ---
-description: Come hack a solarpunk future - 9-11 June, 2023!
+description: Let’s build a Solarpunk future! 🌱
 ---
 
 # 📘 Hacker Manual
