@@ -1,21 +1,17 @@
 # 🏨 Venues
 
-ETHPrague 2023 has two main locations very close to each other:
+**ETHPrague 2023** has two separate venues very close to each other:
 
-* **Conference** - 🌱
-* **Hacker house - VNITROBLOCK**
+* **Conference** - **Paralelní Polis and La Fabrika**
+* **Hacker House - VNITROBLOCK**
 
+### Conference - Paralelní Polis (main venue)&#x20;
 
-
-### Conference - Paralelni Polis (main venue)&#x20;
-
-* **Address:** 475/43, Dělnická, 170 00 Praha 7-Holešovice
+* **Address:** 475/43, Dělnická, 170 00 Praha 7-Holešovice-
 
 {% hint style="info" %}
-All hackers automatically have free access to the conference as well!
+All hackers automatically have free access to both the [Prague DeFi Summit](https://praguedefisummit.com/) (June 8-9)  and [ETHPrague](https://ethprague.com/) conferences as well!
 {% endhint %}
-
-&#x20;
 
 ## Hacker House - VNITROBLOCK
 
