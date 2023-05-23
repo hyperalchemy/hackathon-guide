@@ -24,4 +24,7 @@ List of Mentors is being updated, more to come!
 | Mathieu Saugier          | Cairo / Starknet                                                | enitrat         | Unknown yet, reach out via telegram  |
 | Daniel Keszey            | protocol development, Solidity, design, tokenomics, simulations | zombiwagen90210 | 9am - 7pm in person and via Telegram |
 | Piotr Monwid-Olechnowicz | Front-end development (TypeScript and React)                    | hasparus        |                                      |
+| Tadeo                    | Spark, Maker, DeFi, data analytics, LLMs                        | tadeongmi       | All 3 days, 24hrs                    |
+| Nate Henderson           | system design and tokenomics                                    | EatSleepCrypto  |                                      |
+| CJ Rose                  | Frontend, app design, Zero knowledge                            | cjRose853       |                                      |
 
