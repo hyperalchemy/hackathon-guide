@@ -25,4 +25,4 @@ Please note that we can use the **north entrance**, as displayed on the map belo
 
 There will be room for resting and relaxing at the hacker house, but we still recommend having accommodations booked. There are many affordable options in Prague, and we also have some listed on the website's Sleep & Rest section. Additionally, you can coordinate with fellow hackers in the Telegram group to share accommodations.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mapa_2_2_.jpg" alt=""><figcaption></figcaption></figure>
