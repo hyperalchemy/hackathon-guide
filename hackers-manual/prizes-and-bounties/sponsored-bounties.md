@@ -4,19 +4,74 @@
 Sponsor bounties are updated daily, stay tuned more to come!
 {% endhint %}
 
-MAKER DAO > 2500 EUR
+<details>
 
-PWN > 5000 EUR
+<summary>MAKER DAO > 2500 EUR</summary>
 
-THE GRAPH > 4500 EUR
+TBA
 
-ETHEREUM FOUNDATION: PRIVACY & SCALING EXPLORATIONS > 5000 EUR
+</details>
 
-AAVE > 5000 EUR
+<details>
 
-LENS > 5000 EUR
+<summary>PWN > 5000 EUR</summary>
 
-CHAINSAFE > 5000 EUR
+TBA
 
-API3 > 5000 EUR
+</details>
 
+<details>
+
+<summary>THE GRAPH > 4500 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>ETHEREUM FOUNDATION: PRIVACY &#x26; SCALING EXPLORATIONS > 5000 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>AAVE > 5000 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>LENS > 5000 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>CHAINSAFE > 5000 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>API3 > 5000 EUR</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>ETHEREUM FOUNDATION: ACCOUNT ABSTRACTION > 6000 EUR</summary>
+
+TBA
+
+</details>
