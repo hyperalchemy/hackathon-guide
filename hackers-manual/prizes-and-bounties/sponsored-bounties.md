@@ -54,15 +54,15 @@ TBA
 
 <summary>AAVE > 5000 EUR</summary>
 
-Best Aave or GHO Hack:
+**Best Aave or GHO Hack:**
 
 🥇 2500 EUR&#x20;
 
 🥈 1500 EUR
 
-Best GHO integrations:&#x20;
+**Best GHO integrations:**&#x20;
 
-Two 500 EUR prizes
+2 x 500 EUR prizes
 
 </details>
 
@@ -70,15 +70,15 @@ Two 500 EUR prizes
 
 <summary>LENS > 5000 EUR</summary>
 
-Best Lens App:&#x20;
+**Best Lens App:**&#x20;
 
 🥇  2500 EUR
 
 🥈  1500 EUR
 
-Best Lens Integrations:&#x20;
+**Best Lens Integrations:**&#x20;
 
-Two 500 EUR prizes
+2 x 500 EUR prizes
 
 </details>
 
@@ -102,6 +102,6 @@ TBA
 
 <summary>ETHEREUM FOUNDATION: ACCOUNT ABSTRACTION > 6000 EUR</summary>
 
-TBA
+3 x  2000 EUR Account Abstraction bounties
 
 </details>
