@@ -1,7 +1,9 @@
 # 🏅 Sponsored Bounties
 
 {% hint style="info" %}
-Sponsor bounties are updated daily, stay tuned more to come!
+Sponsor bounties are updated frequently, so stay tuned for more additions! 🤩
+
+Please note that they are also subject to change.
 {% endhint %}
 
 <details>
@@ -52,7 +54,7 @@ TBA
 
 <details>
 
-<summary>AAVE > 5000 EUR</summary>
+<summary>AAVE > 5000 USD in OP</summary>
 
 **Best Aave or GHO Hack:**
 
@@ -68,7 +70,7 @@ TBA
 
 <details>
 
-<summary>LENS > 5000 EUR</summary>
+<summary>LENS > 5000 USDC</summary>
 
 **Best Lens App:**&#x20;
 
