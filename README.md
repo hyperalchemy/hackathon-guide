@@ -9,7 +9,7 @@ description: Let’s build a Solarpunk future! 🌱
 ### **Before hackathon**
 
 * Redeem your ticket&#x20;
-* Join the conversation on [Telegram](hackers-manual/telegram.md)
+* Join the group chat on [Telegram](hackers-manual/telegram.md)
 * [Find a Team](hackers-manual/finding-a-team.md)
 
 ### During the hackathon - June 9-11, 2023
@@ -27,25 +27,23 @@ description: Let’s build a Solarpunk future! 🌱
 
 ## Hackathon Introduction
 
-ETHPrague is a hybrid event that combines a conference and a hackathon, with an additional track of talks and technical workshops designed to inspire and support the hackers.&#x20;
+ETHPrague is a hybrid event that combines a conference and a hackathon, with talks and technical workshops designed to inspire and support the hackers.&#x20;
 
 Throughout the entire weekend, you will have access to a dedicated space where you can work on your project, take breaks, and relax. This way, you can focus solely on bringing your ideas to life.
 
 The capacity of the hackathon will be approximately **500 hackers**.&#x20;
 
-Please note that only confirmed hackers will be able to participate in the event. All hackers will have full access to the ETHPrague conference as well.&#x20;
+Please note that only confirmed hackers will be able to participate in the event. All hackers will have full access to the [Prague DeFi Summit](https://praguedefisummit.com/) and the [ETHPrague](https://ethprague.com/) conference as well.&#x20;
 
-Please review hackathon rules [here](hackers-manual/hackathon-rules.md).&#x20;
+Please review the hackathon rules [here](hackers-manual/hackathon-rules.md).&#x20;
 
 ### Hackathon themes
 
 We encourage projects that address **sustainability**, **local economies**, **urban issues**, and any other ideas that contribute to a way leading to a **Solarpunk** utopia.
 
-<mark style="color:orange;">The exact awards will be announced soon.</mark>
-
 Voting on the quality of individual projects will not only be up to dedicated judges, but will also be decided by the hackathon participants themselves through quadratic voting.
 
-ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.paralelnipolis.cz/en/o-nas/) and [Duct Tape Production](https://ducttape.events/)
+ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.paralelnipolis.cz/en/o-nas/) and [Duct Tape Production](https://ducttape.events/).
 
 
 
