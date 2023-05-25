@@ -20,13 +20,13 @@ Please note that they are also subject to change.
 
 **Best Lens App:**&#x20;
 
-🥇  2500 EUR
+🥇  2500 USDC
 
-🥈  1500 EUR
+🥈  1500 USDC
 
 **Best Lens Integrations:**&#x20;
 
-2 x 500 EUR prizes
+2 x 500 USDC prizes
 
 </details>
 
@@ -50,7 +50,15 @@ TBA
 
 <summary>CHAINSAFE  🏆 5000 EUR</summary>
 
-TBA
+**Web3.js PlugIn**
+
+3 x 1300 USD
+
+**Web3.js Lib Optimization/Bug Bounty**
+
+3 x 500 USD
+
+[Instructions](https://docs.google.com/document/d/1656jfMhlMzpPWVZlPJmX1jmdF3ohPiBr4Mg6G2tNdXM/edit#heading=h.h4umsjy89t3)
 
 </details>
 
@@ -64,9 +72,13 @@ TBA
 
 <details>
 
-<summary>AAVE  🏆 5000 USD in OP</summary>
+<summary>AAVE  🏆 10000 USD </summary>
 
-TBA
+👻 Best GHO Hack - $4000 in USDT
+
+🔴 Best use of Aave with Optimism - $3000 in OP
+
+💻 Best Governance Hack - $3000 in USDT
 
 </details>
 

@@ -1,19 +1,15 @@
 # 🧑🏫 Mentors
 
-During the hackathon, mentors from different fields will be there to assist you with your projects. If you have any questions, do not hesitate to contact them at any time - they will be available from the start of the hackathon until the closing of project applications.
+During the hackathon, mentors from different fields and projects will be available to help you with your projects. If you have any questions, you can ask them in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0)'s "**Ask a Mentor**" channel. There will always be someone available from the start of the hackathon until the project application deadline.
 
-They will generally be hanging around a **Mentor Base**\*, where you can come find them in person. You can also reach them on the [Telegram group](https://t.me/+2bPk0y1790JkMTE0).
+Some of the mentors will be hanging around a **Mentor Base** (TBD), where you can find them in person as well.
 
-It’s always better to ask for advice sooner rather than later, you will learn and build quicker that way. Not just code, but also ideas, concepts, design and presentation.
+It's best to seek advice early on to learn and build more efficiently. This applies not only to coding, but also to generating ideas, understanding concepts, and improving design and presentation.
 
-\*tbd
-
-All mentors are listed below, including their telegram account through which you will be able to contact them.
-
-If you don't know who to contact specifically, or have a general question - you can always use our [Telegram group for hackers](https://t.me/+2bPk0y1790JkMTE0).
+For faster help, it's recommended to ask questions in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0) chat instead of directly messaging a mentor. This way, others might learn from the answer too. If your question is specific to a particular project or sponsor bounty, you can tag the mentor in the group chat or send them a direct message. If a mentor is currently unavailable, please be respectful of their privacy and seek support from someone else.
 
 {% hint style="info" %}
-List of Mentors is being updated, more to come!
+The list of mentors is still being updated, and there will be more to come. Please note that the list is subject to change.
 {% endhint %}
 
 | Name                     | Expertise/Skills                                                | Telegram        | Availability                         |
