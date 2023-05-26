@@ -14,11 +14,11 @@ description: Let’s build a Solarpunk future! 🌱
 
 ### During the hackathon - June 9-11, 2023
 
-* **Register:**
+* Register:
 
-**June 8th: y**ou can pre-register for the hackathon at **Paralelní Polis,** and attend the [Prague DeFi Summit](https://praguedefisummit.com/).
+**June 8th:** you can pre-register for the hackathon at Paralelní Polis, and attend the [Prague DeFi Summit](https://praguedefisummit.com/).
 
-**June 9th:** registration will be available at both **Paralelní Polis** and the **Hacker House**.&#x20;
+**June 9th:** registration will be available at both Paralelní Polis and the Hacker House.&#x20;
 
 See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
 
