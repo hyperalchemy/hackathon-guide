@@ -5,7 +5,7 @@ description: schedule is currently being reviewed, and will be updated soon
 # 🕗 Schedule
 
 {% hint style="info" %}
-Please note that the schedule is subject to change.
+Please note that the schedule is being finalized and is subject to change.
 {% endhint %}
 
 ### **Thursday - June 8th**
