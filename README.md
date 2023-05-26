@@ -14,39 +14,43 @@ description: Let’s build a Solarpunk future! 🌱
 
 ### During the hackathon - June 9-11, 2023
 
-* **Register** at the[ venue](hackers-manual/venues.md)
+* **Register:**
+
+**June 8th: y**ou can pre-register for the hackathon at **Paralelní Polis,** and attend the [Prague DeFi Summit](https://praguedefisummit.com/).
+
+**June 9th:** registration will be available at both **Paralelní Polis** and the **Hacker House**.&#x20;
+
+See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
+
 * Find a team if you haven't already
 * Mint your unique SBT token for Quadratic Voting
 * Ask for help or guidance from our awesome [mentors](hackers-manual/mentors/)
+* Build, tune in to workshops and conference talks, take some breaks, and have fun!
 * [Submit your project](hackers-manual/submissions.md) before the deadline&#x20;
 
 ### After the project submission deadline
 
-* Take part in quadratic voting&#x20;
+* Vote for your favorite project through quadratic voting.
 
 <figure><img src=".gitbook/assets/FqyFbjeaAAEOSJJ.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Hackathon Introduction
 
-ETHPrague is a hybrid event that combines a conference and a hackathon, with talks and technical workshops designed to inspire and support the hackers.&#x20;
+ETHPrague is both a conference and a hackathon. From June 9-11, you will have 24-hour access to the Hacker House and will be provided with meals, drinks, and snacks. You will also have access to the [Prague DeFi Summit](https://praguedefisummit.com/) on June 8-9 and the [ETHPrague](https://ethprague.com/) conference on June 9-11.
 
-Throughout the entire weekend, you will have access to a dedicated space where you can work on your project, take breaks, and relax. This way, you can focus solely on bringing your ideas to life.
+Technical workshops will be held at the Hacker House to provide easy access and help you learn new skills, get inspired, and motivated to build.
 
-The capacity of the hackathon will be approximately **500 hackers**.&#x20;
-
-Please note that only confirmed hackers will be able to participate in the event. All hackers will have full access to the [Prague DeFi Summit](https://praguedefisummit.com/) and the [ETHPrague](https://ethprague.com/) conference as well.&#x20;
+The hackathon will host approximately 500 hackers, and only confirmed hackers will be eligible to compete for prizes and sponsored bounties.
 
 Please review the hackathon rules [here](hackers-manual/hackathon-rules.md).&#x20;
 
 ### Hackathon themes
 
-We encourage projects that address **sustainability**, **local economies**, **urban issues**, and any other ideas that contribute to a way leading to a **Solarpunk** utopia.
+We're excited to see projects that focus on sustainability, local economies, and communities, as well as urban issues, or any other ideas that contribute to a path leading to a solarpunk utopia.
 
-Voting on the quality of individual projects will not only be up to dedicated judges, but will also be decided by the hackathon participants themselves through quadratic voting.
+Hackers and general attendees at the conference will also be able to vote for their favorite hackathon projects through quadratic voting.
 
 ETHPrague Hackathon is organized by [Institute of Cryptoanarchy](https://www.paralelnipolis.cz/en/o-nas/) and [Duct Tape Production](https://ducttape.events/).
-
-
 
 ## Table of Contents
 
