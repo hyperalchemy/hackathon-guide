@@ -15,8 +15,8 @@ description: Let’s build a Solarpunk future! 🌱
 ### During the hackathon - June 9-11, 2023
 
 * **Register** at the[ venue](hackers-manual/venues.md)
+* Find a team if you haven't already
 * Mint your unique SBT token for Quadratic Voting
-* If you have not yet found a team, do so now
 * Ask for help or guidance from our awesome [mentors](hackers-manual/mentors/)
 * [Submit your project](hackers-manual/submissions.md) before the deadline&#x20;
 
