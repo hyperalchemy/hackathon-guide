@@ -8,7 +8,7 @@ description: Let’s build a Solarpunk future! 🌱
 
 ### **Before hackathon**
 
-* Redeem your ticket&#x20;
+* Redeem the ticket you received via email
 * Join the group chat on [Telegram](hackers-manual/telegram.md)
 * [Find a Team](hackers-manual/finding-a-team.md)
 
@@ -16,6 +16,7 @@ description: Let’s build a Solarpunk future! 🌱
 
 * **Register** at the[ venue](hackers-manual/venues.md)
 * Mint your unique SBT token for Quadratic Voting
+* If you have not yet found a team, do so now
 * Ask for help or guidance from our awesome [mentors](hackers-manual/mentors/)
 * [Submit your project](hackers-manual/submissions.md) before the deadline&#x20;
 
