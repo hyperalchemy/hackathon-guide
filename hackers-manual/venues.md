@@ -15,7 +15,7 @@ All hackers automatically have free access to both the [Prague DeFi Summit](http
 
 ## Hacker House - VNITROBLOCK
 
-This year, we have a separate Hacker House available just one block (80m) away from Paralelní Polis. This pretty awesome building with great inside garden vibes will provide ample space for productive work and focus for hacking, while also allowing for convenient access to the main conferences.
+This year, there will be a separate Hacker House available just one block (80m) away from Paralelní Polis. This pretty awesome building with great inside garden vibes will provide ample space for productive work and focus for hacking, while also allowing for convenient access to the main conferences.
 
 **Address:** 32 Dělnická, 170 00 Praha 7-Holešovice [https://goo.gl/maps/5TWmcYYGZbgTxp526](https://goo.gl/maps/5TWmcYYGZbgTxp526)
 
