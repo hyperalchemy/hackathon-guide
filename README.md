@@ -38,7 +38,7 @@ See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca
 
 ETHPrague is both a conference and a hackathon. From June 9-11, you will have 24-hour access to the Hacker House and will be provided with meals, drinks, and snacks. You will also have access to the [Prague DeFi Summit](https://praguedefisummit.com/) on June 8-9 and the [ETHPrague](https://ethprague.com/) conference on June 9-11.
 
-Technical workshops will be held at the Hacker House to provide easy access and help you learn new skills, get inspired, and motivated to build.
+Technical [workshops](https://ethprague.com/schedule/) will be held at the Hacker House to provide easy access and help you learn new skills, get inspired, and motivated to build.
 
 The hackathon will host approximately 500 hackers, and only confirmed hackers will be eligible to compete for prizes and sponsored bounties.
 
@@ -46,7 +46,7 @@ Please review the hackathon rules [here](hackers-manual/hackathon-rules.md).&#x2
 
 ### Hackathon themes
 
-We're excited to see projects that focus on sustainability, local economies, and communities, as well as urban issues, or any other ideas that contribute to a path leading to a solarpunk utopia.
+We're excited to see projects that focus on sustainability, local economies, and communities, as well as urban issues, or any other ideas that contribute to a path leading to a Solarpunk utopia.
 
 Hackers and general attendees at the conference will also be able to vote for their favorite hackathon projects through quadratic voting.
 
