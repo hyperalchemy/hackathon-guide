@@ -6,7 +6,7 @@ description: Let’s build a Solarpunk future! 🌱
 
 ## **TL;DR**
 
-### **Before hackathon**
+### **Before the hackathon**
 
 * Redeem the ticket you received via email
 * Join the group chat on [Telegram](hackers-manual/telegram.md)
