@@ -12,15 +12,21 @@ For faster help, it's recommended to ask questions in the [Telegram group](https
 The list of mentors is still being updated, and there will be more to come. Please note that the list is subject to change.
 {% endhint %}
 
-| Name                     | Expertise/Skills                                                | Telegram        | Availability                         |
-| ------------------------ | --------------------------------------------------------------- | --------------- | ------------------------------------ |
-| Muhammed Tanrıkulu       | ENS and web3 identities in general                              | md\_tanrikulu   | All 3 days                           |
-| Laurence Kirk            | Solidity and Zero Knowledge Proofs                              | LaurenceKirk    | TBD                                  |
-| Naim Ashab               | PWN                                                             | ashhanai        | TBD                                  |
-| Mathieu Saugier          | Cairo / Starknet                                                | enitrat         | Unknown yet, reach out via telegram  |
-| Daniel Keszey            | protocol development, Solidity, design, tokenomics, simulations | zombiwagen90210 | 9am - 7pm in person and via Telegram |
-| Piotr Monwid-Olechnowicz | Front-end development (TypeScript and React)                    | hasparus        |                                      |
-| Tadeo                    | Spark, Maker, DeFi, data analytics, LLMs                        | tadeongmi       | All 3 days, 24hrs                    |
-| Nate Henderson           | system design and tokenomics                                    | EatSleepCrypto  |                                      |
-| CJ Rose                  | Frontend, app design, Zero knowledge                            | cjRose853       |                                      |
+| Name                     | Expertise/Skills                                                        | Telegram        | Availability                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------- |
+| Muhammed Tanrıkulu       | ENS and web3 identities in general                                      | md\_tanrikulu   | All 3 days                                                                                     |
+| Laurence Kirk            | Solidity and Zero Knowledge Proofs                                      | LaurenceKirk    | TBD                                                                                            |
+| Naim Ashab               | PWN                                                                     | ashhanai        | TBD                                                                                            |
+| Mathieu Saugier          | Cairo / Starknet                                                        | enitrat         | Unknown yet, reach out via telegram                                                            |
+| Daniel Keszey            | protocol development, Solidity, design, tokenomics, simulations         | zombiwagen90210 | 9am - 7pm in person and via Telegram                                                           |
+| Piotr Monwid-Olechnowicz | Front-end development (TypeScript and React)                            | hasparus        |                                                                                                |
+| Tadeo                    | Spark, Maker, DeFi, data analytics, LLMs                                | tadeongmi       | All 3 days, 24hrs                                                                              |
+| Nate Henderson           | system design and tokenomics                                            | EatSleepCrypto  |                                                                                                |
+| CJ Rose                  | Frontend, app design, Zero knowledge                                    | cjRose853       |                                                                                                |
+| Madalina Raicu           | Vega Protocol                                                           |                 |                                                                                                |
+| Nic                      | smart contracts                                                         |                 |                                                                                                |
+| Atris                    | fullstack web development and its connection to web3 - ethers/viem etc. | vacekj          | Saturday and Sunday will be available at least on TG to answer questions, and also on premises |
+| Estevan Vilar            | MatterLab - community manager                                           |                 |                                                                                                |
+| Anastasiia Vashchuk      | MatterLab - software engineer                                           |                 |                                                                                                |
+| Dave Weisiger            | Taiko                                                                   |                 |                                                                                                |
 
