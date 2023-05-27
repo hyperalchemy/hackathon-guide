@@ -72,7 +72,7 @@ TBA
 
 <details>
 
-<summary>AAVE  🏆 10000 USD </summary>
+<summary>AAVE  🏆 10 000 USD </summary>
 
 👻 Best GHO Hack - $4000 in USDT
 
@@ -125,5 +125,21 @@ TBA
 <summary>MAKER DAO  🏆 2500 EUR</summary>
 
 TBA
+
+</details>
+
+<details>
+
+<summary>zkSync Era 🏆 10 000 USD </summary>
+
+[Instructions](https://matterlabs.notion.site/matterlabs/ETHPrague-zkSync-Era-936a0ef411ff4fa1a1b6b4fc6234ee9f)
+
+</details>
+
+<details>
+
+<summary>NEAR Protocol 🏆 5000 EUR</summary>
+
+[Instructions](https://docs.google.com/document/d/1z4tsoRN0hnT2yqo8eKnbKyrqinmfjqS39Z\_Sp4vSzvY/edit)
 
 </details>
