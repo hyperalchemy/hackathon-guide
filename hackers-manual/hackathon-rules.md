@@ -22,5 +22,5 @@ Having remote team members is okay as long as they are all accepted hackers, and
 
 * Project must be submitted via Devfolio - Read [submissions.md](submissions.md "mention")
 * A link to the open-source code must be provided
-* A short description / presentation file must describe your project
+* A short description / presentation must describe your project
 * If applicable, the contract address(es) of your deployed demo must be provided, either on a testnet of your choice or mainnet of a platform of choice.
