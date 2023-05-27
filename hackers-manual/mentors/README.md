@@ -1,6 +1,6 @@
 # 🧑🏫 Mentors
 
-During the hackathon, mentors from different fields and projects will be available to help you with your projects. If you have a question, you can ask them in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0)'s "**Ask a Mentor**" channel. If your question is specific to a particular project or sponsor bounty, you can tag the mentor in the group chat.
+During the hackathon, mentors from various fields and projects will be available to assist you with your projects. If you have a question, you can ask them in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0) on the "**Ask a Mentor**" channel. If your question is specific to a particular project or sponsor bounty, you can tag the mentor in the group chat.
 
 If a mentor is currently unavailable, please respect their privacy and seek support from someone else. There will always be someone available from the start of the hackathon until the project application deadline. Some of the mentors will also be available to help in person, but please seek help in the group chat by default.
 
