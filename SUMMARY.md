@@ -16,7 +16,7 @@
   * [🧑⚖ Judging](hackers-manual/judging.md)
   * [🗳 Quadratic Voting](hackers-manual/quadratic-voting.md)
   * [💬 Telegram](hackers-manual/telegram.md)
-* [💖 Code of conduct](code-of-conduct.md)
+* [📜 Code of conduct](code-of-conduct.md)
 * [🏰 About Prague](about-prague.md)
 * [🚃 Public Transport](public-transport.md)
 * [🛏 Accommodations](accommodations.md)
