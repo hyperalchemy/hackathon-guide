@@ -23,6 +23,6 @@ This year, hackers will have 24-hour access to a separate Hacker House, just one
 
 There will be room for resting and relaxing at the hacker house, but we still recommend having accommodations booked. There are many affordable options in Prague, and you can coordinate with fellow hackers in the Telegram group to share accommodations.
 
-Please note that we can use the **North entrance**, as displayed on the map below.
+Please note that we can use the **North entrance** to access VNITROBLOCK, as displayed on the map below.
 
 <figure><img src="../.gitbook/assets/mapa_2_2_.jpg" alt=""><figcaption></figcaption></figure>
