@@ -19,10 +19,10 @@ All hackers automatically have free access to both [Prague DeFi Summit](https://
 
 This year, hackers will have 24-hour access to a separate Hacker House, just one block (80m) away from Paralelní Polis. This pretty awesome building with great inside garden vibes will provide ample space for productive work and focus for hacking, while also allowing for convenient access to the main conferences.
 
-Please note that we can use the **North entrance**, as displayed on the map below.
-
 **Rest and sleep**
 
 There will be room for resting and relaxing at the hacker house, but we still recommend having accommodations booked. There are many affordable options in Prague, and you can coordinate with fellow hackers in the Telegram group to share accommodations.
+
+Please note that we can use the **North entrance**, as displayed on the map below.
 
 <figure><img src="../.gitbook/assets/mapa_2_2_.jpg" alt=""><figcaption></figcaption></figure>
