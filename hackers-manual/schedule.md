@@ -27,4 +27,4 @@ Please note that the schedule is being finalized and is subject to change.
 * **11:00 - Project Submission Deadline**
 * Quadratic voting intro & how to vote
 * Project Judging
-* **4:30 pm - Closing ceremony & Winners announcement**&#x20;
+* **4:30 pm - Closing Ceremony** & **Winners Announcement**
