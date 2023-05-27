@@ -10,7 +10,9 @@ More detailed information will be added soon
 
 ETHPrague hackathon in [Devfolio](https://ethprague2023.devfolio.co/)&#x20;
 
-You have to apply, create your team and project and submit at [ethprague2023.devfolio.co](https://ethprague2023.devfolio.co) before Sunday, 11am. Link below
+You have to sign up on Devfolio, create your team and project, and submit it at [ethprague2023.devfolio.co](https://ethprague2023.devfolio.co/) before **June 11, 2023, Sunday, 11:00 am.**
+
+Please find the link below:
 
 {% embed url="https://ethprague2023.devfolio.co/" %}
 
