@@ -7,7 +7,7 @@
 
 ### Conference - Paralelní Polis (main venue)&#x20;
 
-* **Address:** 475/43, Dělnická, 170 00 Praha 7-Holešovice-
+**Address:** 475/43, Dělnická, 170 00 Praha 7-Holešovice-
 
 {% hint style="info" %}
 All hackers automatically have free access to both [Prague DeFi Summit](https://praguedefisummit.com/) (June 8-9) and the [ETHPrague](https://ethprague.com/) conference as well!
