@@ -14,7 +14,7 @@ These are the hackathon rules, please respect them without exception.
 * Please comply with any other rules and additional instructions from ETHPrague organizers.
 * Please respect our [Code of Conduct](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/84/code-of-conduct)!
 
-The hackathon will take place offline to ensure a great hacking experience and the best possible networking and cooperation. However, remote participation is possible.
+The hackathon will take place offline to ensure the best possible hacking experience, networking, and cooperation. However, remote participation is also possible.
 
 Having remote team members is okay as long as they are all accepted hackers, and at least one team member is present at the venue to present the project to the judges. However, we strongly recommend that the majority of the team be present at the hackathon, as this also increases your chances of performing well during the presentation.
 
