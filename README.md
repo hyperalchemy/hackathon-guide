@@ -16,11 +16,13 @@ description: Let’s build a Solarpunk future! 🌱
 
 * Register:
 
-**June 8th:** you can pre-register for the hackathon at Paralelní Polis, and attend the [Prague DeFi Summit](https://praguedefisummit.com/).
+&#x20;       **June 8th:** you can pre-register for the hackathon at Paralelní Polis, and attend&#x20;
 
-**June 9th:** registration will be available at both Paralelní Polis and the Hacker House.&#x20;
+&#x20;      the [Prague DeFi Summit](https://praguedefisummit.com/).
 
-See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
+&#x20;       **June 9th:** registration will be available at both Paralelní Polis and the Hacker House.&#x20;
+
+&#x20;      See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
 
 * Find a team if you haven't already
 * Mint your unique SBT token for Quadratic Voting
