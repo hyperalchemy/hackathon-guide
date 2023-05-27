@@ -1,12 +1,12 @@
 # 🧑🏫 Mentors
 
-During the hackathon, mentors from different fields and projects will be available to help you with your projects. If you have any questions, you can ask them in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0)'s "**Ask a Mentor**" channel. There will always be someone available from the start of the hackathon until the project application deadline.
+During the hackathon, mentors from different fields and projects will be available to help you with your projects. If you have a question, you can ask them in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0)'s "**Ask a Mentor**" channel. If your question is specific to a particular project or sponsor bounty, you can tag the mentor in the group chat.
 
-Some of the mentors will be hanging around a **Mentor Base** (TBD), where you can find them in person as well.
+If a mentor is currently unavailable, please respect their privacy and seek support from someone else. There will always be someone available from the start of the hackathon until the project application deadline. Some of the mentors will also be available to help in person, but please seek help in the group chat by default.
 
-It's best to seek advice early on to learn and build more efficiently. This applies not only to coding, but also to generating ideas, understanding concepts, and improving design and presentation.
+It's best to seek advice early on to learn and build more efficiently. This applies not only to coding but also to generating ideas, understanding concepts, and improving design and presentation.
 
-For faster help, it's recommended to ask questions in the [Telegram group](https://t.me/+2bPk0y1790JkMTE0) chat instead of directly messaging a mentor. This way, others might learn from the answer too. If your question is specific to a particular project or sponsor bounty, you can tag the mentor in the group chat or send them a direct message. If a mentor is currently unavailable, please be respectful of their privacy and seek support from someone else.
+_To ensure a fair and respectful environment for all participants, please refrain from sharing mentors' contact information or reaching out to them with unsolicited requests or unrelated matters. Violating this rule may result in disqualification from the hackathon. Thank you for your cooperation in respecting the privacy of our mentors._
 
 {% hint style="info" %}
 The list of mentors is still being updated, and there will be more to come. Please note that the list is subject to change.
