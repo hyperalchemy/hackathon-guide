@@ -8,6 +8,22 @@ Please note that they are also subject to change.
 
 <details>
 
+<summary>GNOSIS CHAIN &#x26; GATEWAY 🏆 12 000 USD</summary>
+
+For top projects building with Gateway's RPC (apply in 1 minute on admin.gateway.fm)
+
+1 x 5000 USD
+
+2 x 2500 USD
+
+1 x 2000 USD for building on Gnosis Chain (or Chiado testnet).
+
+Demonstrate the power of AI, use existing Uniswap contracts, or surprise us! :relaxed:
+
+</details>
+
+<details>
+
 <summary>ETHEREUM FOUNDATION: ACCOUNT ABSTRACTION  🏆 6000 EUR</summary>
 
 3 x  2000 EUR Account Abstraction bounties
