@@ -8,6 +8,14 @@ Please note that they are also subject to change.
 
 <details>
 
+<summary>MANTLE  🏆 15 000 USD</summary>
+
+[Instructions](https://docs.google.com/document/d/1eZSirOx4LarewHXUCFHVeTEfB5aVmb06Cj0Vcx1JIgc/edit#heading=h.m2yexey64ohh)
+
+</details>
+
+<details>
+
 <summary>SCROLL 🏆 5000 USD</summary>
 
 TBA
