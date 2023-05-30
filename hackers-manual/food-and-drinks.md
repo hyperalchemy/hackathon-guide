@@ -1,3 +1,5 @@
 # 🍽 Food and drinks
 
-Meals and drinks will be provided throughout the entire hackathon to keep you fueled to build. You will also have access to coffee and snacks at the conferences. Come with an open mind, a thirst for knowledge, and enthusiasm.
+Hackers will be provided with meals and drinks throughout the entire hackathon. They will also have access to coffee and snacks at the conferences.&#x20;
+
+Come with an open mind, a thirst for knowledge, and enthusiasm and we will take care of the rest!
