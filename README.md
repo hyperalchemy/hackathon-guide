@@ -12,7 +12,7 @@ description: Let’s build a Solarpunk future! 🌱
 * Join the group chat on [Telegram](hackers-manual/telegram.md)
 * [Find a Team](hackers-manual/finding-a-team.md)
 
-### During the hackathon - June 9-11, 2023
+### During the hackathon - June 9th-11th, 2023
 
 * Register:
 
