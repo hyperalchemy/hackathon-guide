@@ -8,6 +8,14 @@ Please note that they are also subject to change.
 
 <details>
 
+<summary>SCROLL 🏆 5000 USD</summary>
+
+TBA
+
+</details>
+
+<details>
+
 <summary>GNOSIS CHAIN &#x26; GATEWAY 🏆 12 000 USD</summary>
 
 For top projects building with Gateway's RPC (apply in 1 minute on admin.gateway.fm)
