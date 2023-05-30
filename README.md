@@ -48,7 +48,7 @@ Please review the hackathon rules [here](hackers-manual/hackathon-rules.md).&#x2
 
 ### Hackathon themes
 
-We're excited to see projects that focus on sustainability, local economies, and communities, as well as urban issues, or any other ideas that contribute to a path leading to a Solarpunk utopia. Hackers and general attendees at the conference will also be able to vote for their favorite hackathon projects through quadratic voting.
+We're excited to see projects that focus on sustainability, local economies, and communities, as well as urban issues, or any other ideas that contribute to a path leading to a Solarpunk utopia. We welcome experimental projects that approach issues from a new perspective. Hackers and general attendees at the conference will also be able to vote for their favorite hackathon projects through quadratic voting.
 
 There will also be several [Sponsored Bounties](hackers-manual/prizes-and-bounties/sponsored-bounties.md), so you can work on different challenges related to specific projects to help them improve and win some great prizes.
 
