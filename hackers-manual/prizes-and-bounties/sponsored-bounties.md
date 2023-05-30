@@ -58,7 +58,11 @@ Freestyle 🏆 2000 EUR
 
 <summary>PWN   🏆 5000 EUR</summary>
 
-TBA
+⛓ cross-chain lending (lock collateral on chain A and get funds on chain B)&#x20;
+
+💸 loans with instalments (e.g. Superfluid 👀)&#x20;
+
+🖼 Buy Now Pay Later with existing marketplaces
 
 </details>
 
