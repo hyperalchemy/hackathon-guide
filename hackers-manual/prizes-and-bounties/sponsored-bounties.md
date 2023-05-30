@@ -26,7 +26,15 @@ Demonstrate the power of AI, use existing Uniswap contracts, or surprise us! :re
 
 <summary>ETHEREUM FOUNDATION: ACCOUNT ABSTRACTION  🏆 6000 EUR</summary>
 
-3 x  2000 EUR Account Abstraction bounties
+**ERC-4337**
+
+Paymasters 🏆 2000 EUR
+
+Developer Tooling 🏆 2000 EUR
+
+Freestyle 🏆 2000 EUR
+
+[Instructions](https://docs.google.com/document/d/1hI84HwoYhK6-hi39JRSXSeeu7spA27VIBIjsSS\_0NpU/edit?usp=sharing)
 
 </details>
 
