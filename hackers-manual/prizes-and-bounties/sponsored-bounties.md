@@ -8,6 +8,18 @@ Please note that they are also subject to change.
 
 <details>
 
+<summary>TAIKO 🏆 5000 DAI</summary>
+
+Deploy on Taiko 🏆 2500 DAI
+
+Infrastructure 🏆 2000 DAI
+
+Ethereum Public Goods 🏆 500 DAI
+
+</details>
+
+<details>
+
 <summary>MANTLE  🏆 15 000 USD</summary>
 
 [Instructions](https://docs.google.com/document/d/1eZSirOx4LarewHXUCFHVeTEfB5aVmb06Cj0Vcx1JIgc/edit#heading=h.m2yexey64ohh)
