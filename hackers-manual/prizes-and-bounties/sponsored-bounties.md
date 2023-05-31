@@ -1,7 +1,7 @@
 # 🏅 Sponsored Bounties
 
 {% hint style="info" %}
-Sponsor bounties are updated frequently, so stay tuned for more additions! 🤩
+Sponsor bounties are updated frequently, so stay tuned for more details about the bounties and additional bounties to come! 🤩
 
 Please note that they are also subject to change.
 {% endhint %}
