@@ -172,7 +172,7 @@ TBA
 
 <summary>OPTIMISM  🏆 5000 USDC</summary>
 
-TBA
+[Instructions](https://oplabs.notion.site/ETHPrague-Hackathon-Bounties-ddc7adf1606f4f828a12c824150e5930)
 
 </details>
 
