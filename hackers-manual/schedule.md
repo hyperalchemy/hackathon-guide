@@ -11,7 +11,7 @@ Please note that the schedule is being finalized and is subject to change.
 ### **Friday - June 9th**
 
 * **9:00 am - **<mark style="color:orange;">**Registration**</mark> opens and will be available at both Paralelní Polis and the Hacker House. See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
-* **1:30 pm - **<mark style="color:orange;">**Opening ceremony**</mark> at Paralelní Polis
+* **1:30 pm -** Hackathon <mark style="color:orange;">**Opening Ceremony**</mark> at Paralelní Polis
 * **2-3 pm** - Team formation workshop at the Hacker House
 
 ### **Saturday - June 10th**
