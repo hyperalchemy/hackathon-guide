@@ -2,10 +2,10 @@
 
 ## **ETHPrague 2023** has two separate venues very close to each other:
 
-* **Conference** - **Paralelní Polis** and **La Fabrika**
+* **Conference** - **Paralelní Polis &** **La Fabrika**
 * **Hacker House - VNITROBLOCK**
 
-### Conference - Paralelní Polis (main venue)&#x20;
+### Conference - Paralelní Polis & **La Fabrika** (main venues)&#x20;
 
 **Address:** 475/43, Dělnická, 170 00 Praha 7-Holešovice-
 
