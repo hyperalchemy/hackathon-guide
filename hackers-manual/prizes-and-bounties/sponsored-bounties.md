@@ -162,9 +162,9 @@ Best use of Existing Subgraph(s): Query an existing subgraph on the Graph Explor
 
 <details>
 
-<summary>COINBASE  🏆 5000 EUR</summary>
+<summary>BASE  🏆 5000 EUR</summary>
 
-TBA
+[Instructions](https://docs.google.com/document/d/1CHD4VrP4JDjNPNvvhVDs0GOTptPdUpqp9R9UsA6nMWI/edit?usp=sharing)
 
 </details>
 
@@ -178,7 +178,7 @@ TBA
 
 <details>
 
-<summary>MAKER DAO  🏆 2500 EUR</summary>
+<summary>MAKER DAO  🏆 2500 DAI</summary>
 
 TBA
 
