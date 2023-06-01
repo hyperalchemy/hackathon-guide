@@ -68,7 +68,7 @@ Freestyle 🏆 2000 EUR
 
 <details>
 
-<summary>LENS  🏆 5000 USDC</summary>
+<summary>LENS PROTOCOL 🏆 5000 USDC</summary>
 
 **Best Lens App:**&#x20;
 
