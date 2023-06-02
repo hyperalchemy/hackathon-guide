@@ -180,7 +180,13 @@ Best use of Existing Subgraph(s): Query an existing subgraph on the Graph Explor
 
 <summary>MAKER DAO  🏆 2500 DAI</summary>
 
-TBA
+🥇 1,250 DAI
+
+🥈 750 DAI
+
+🥉 500 DAI
+
+[Instructions](https://towering-lycra-6ab.notion.site/MakerDAO-ETHPrague-Bounties-54109872fb134966803f0f9ac52e2ff7)
 
 </details>
 
