@@ -140,23 +140,23 @@ TBA
 
 <details>
 
-<summary>THE GRAPH   🏆 4500 EUR</summary>
+<summary>THE GRAPH   🏆 5000 USD</summary>
 
 Best New Subgraph(s): Build and deploy a custom subgraph that indexes data from a smart contract to query blockchain data to your dapp.
 
-🥇 Grand Prize: €1100&#x20;
+🥇 Grand Prize: $1400
 
-🥈 1st Runner-up: €900&#x20;
+🥈 1st Runner-up: $1000&#x20;
 
-🥉 2nd Runner-up: €600
+🥉 2nd Runner-up: $600
 
 Best use of Existing Subgraph(s): Query an existing subgraph on the Graph Explorer or hosted service using the public query URL from the subgraph dashboard.
 
-🥇 Grand Prize: €900&#x20;
+🥇 Grand Prize: $1000
 
-🥈 1st Runner-up: €600&#x20;
+🥈 1st Runner-up: $600&#x20;
 
-🥉 2nd Runner-up: €400
+🥉 2nd Runner-up: $400
 
 </details>
 
