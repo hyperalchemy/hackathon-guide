@@ -16,7 +16,8 @@ Please note that the schedule is being finalized and is subject to change.
 
 ### **Saturday - June 10th**
 
-* **TBA -** Project showcase/Open mic (to be confirmed)
+* TBA - Project showcase/Open mic (to be confirmed)
+* **4:00 pm** - Project Pre-Submission Deadline for presenting
 
 ### **Sunday - June 11th**
 
