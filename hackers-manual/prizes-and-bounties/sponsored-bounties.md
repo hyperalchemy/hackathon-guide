@@ -104,7 +104,7 @@ TBA
 
 <details>
 
-<summary>CHAINSAFE  🏆 5000 EUR</summary>
+<summary>CHAINSAFE  🏆 5400 USD</summary>
 
 **Web3.js PlugIn**
 
