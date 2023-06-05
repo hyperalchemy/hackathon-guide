@@ -92,6 +92,9 @@ Freestyle 🏆 2000 EUR
 
 🖼 Buy Now Pay Later with existing marketplaces
 
+\
+[Instructions](https://pwndao.notion.site/ETHPrague-hackathon-PWN-bounty-7a4196a809b24b08803ab53a11f2e50d?pvs=4)
+
 </details>
 
 <details>
