@@ -84,7 +84,7 @@ Freestyle 🏆 2000 EUR
 
 <details>
 
-<summary>PWN   🏆 5000 EUR</summary>
+<summary>PWN   🏆 5000 DAI</summary>
 
 ⛓ cross-chain lending (lock collateral on chain A and get funds on chain B)&#x20;
 
