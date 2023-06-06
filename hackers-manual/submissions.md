@@ -21,7 +21,7 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 * To maximize your chances of winning and to be able to present in front of the judges\*, you must submit the first draft of your project on Devfolio by **June 10, 2023, Saturday, at 4:00 pm**.
 * Submit the final version of the project before **June 11, 2023, Sunday, 11:00 am**.
 
-Follow these steps:
+**Follow these steps:**
 
 [#create-profile](submissions.md#create-profile "mention")
 
