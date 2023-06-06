@@ -41,7 +41,7 @@ Follow these steps:
 
 At this point your profile is created and you are in the ETHPrague hackathon dashboard.
 
-### Form a team
+### Create a team
 
 You can choose to **Submit Solo** or **Submit as a Team**.
 
