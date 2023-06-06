@@ -59,7 +59,9 @@ If you submit as a team, one member needs to create the team, and the others can
 ### Add Your Project
 
 1. From the dashboard click **Add Project**&#x20;
-2. Fill out the form:
+2. Fill out the form.&#x20;
+
+:information\_source: Please note that most of the fields are mandatory, but don't worry if you haven't figured them all out yet. You will be able to update them until submission, and no one will judge your project based on the early information you entered here. You can even simply enter TBD. Of course, the more you upload in the beginning and during the hackathon, the easier it will be to submit, so we encourage you not to leave everything to the last minute.
 
 * **Project Name** (mandatory)
 * **Tagline** (mandatory)
