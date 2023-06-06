@@ -19,7 +19,7 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 * Create a profile for yourself on Devfolio. Create your own team or join an existing team if you want to collaborate with others. You can add more team members to your team later as well. Create and add your project.
 * You can join to more teams, and one team can add and submit multiple projects.
 * To maximize your chances of winning and to be able to present in front of the judges\*, you must submit the first draft of your project on Devfolio by **June 10, 2023, Saturday, at 4:00 pm**.
-* Submit the final version of the project before **June 11, 2023, Sunday, 11:00 am**.
+* Submit the final version of your project before **June 11, 2023, Sunday, 11:00 am**.
 
 **Follow these steps:**
 
