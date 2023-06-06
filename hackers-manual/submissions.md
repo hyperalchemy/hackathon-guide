@@ -43,7 +43,7 @@ At this point your profile is created and you are in the ETHPrague hackathon das
 
 ### Form a team
 
-You can decide to **Submit Solo** or **Submit in Team**
+You can decide to **Submit Solo** or **Submit in a Team**
 
 If you Submit in Team you need one member to create the team, and the other will just add the team code in their dashboard.
 
