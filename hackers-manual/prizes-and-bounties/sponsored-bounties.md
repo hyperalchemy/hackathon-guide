@@ -1,6 +1,6 @@
 # 🏅 Sponsored Bounties
 
-&#x20;:exclamation: **If you're building for a specific sponsor bounty, remember to tag the technology used.** :exclamation:
+&#x20;:exclamation: **If you're building for a specific sponsor bounty, remember to tag the technology used in Devfolio.** :exclamation:
 
 AAVE, API3, BASE, CHAINSAFE, ETHEREUM FOUNDATION ACCOUNT ABSTRACTION, ETHEREUM FOUNDATION PRIVACY & SCALING EXPLORATIONS, GNOSIS CHAIN & GATEWAY, LENS PROTOCOL, MAKER DAO, MANTLE, NEAR, OPTIMISM, PWN, SCROLL, TAIKO, THE GRAPH, ZKSYNC ERA
 
