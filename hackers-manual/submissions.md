@@ -16,7 +16,7 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 
 ### **TL;DR**
 
-* Apply to the ETHPrague hackathon on Devfolio, create a profile for yourself, and create your team (if you want to team up with others), and add your project. You can add more team members later as well.
+* Create a profile for yourself on Devfolio, and create your team (if you want to team up with others), and then add your project. You can add more team members to your team later as well.
 * To maximize your chances of winning and to be able to present in front of the judges\*, submit the first draft of your project by **June 10, 2023, Saturday, at 4:00 pm**.
 * Submit the project before **June 11, 2023, Sunday, 11:00 am**
 
