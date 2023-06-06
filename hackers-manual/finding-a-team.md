@@ -5,3 +5,15 @@ If you’re looking for team-mates or ideas for projects, we’ve got you covere
 There will also be a **Team-building session**, which will take place after the opening ceremony. No need to prepare anything, just show up. This session will be followed by a short **Brainstorm**, that you can also attend to get at least one solid project idea.
 
 Then you’ll have everything to start your weekend of hacking!
+
+
+
+### Hackathon 101 & Team Formation Workshop&#x20;
+
+**when**: 2:00 PM (60min)
+
+**where**: Workshop Room
+
+Join to learn some cool tips about hackathons and for a fun and informal team formation gathering.
+
+###
