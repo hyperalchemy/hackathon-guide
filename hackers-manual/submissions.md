@@ -5,7 +5,7 @@ description: All projects must be submitted in Devfolio
 # 📩 Submissions
 
 {% hint style="info" %}
-Please read the following information carefully, and reach out to [Ceci from ETHPrague team](https://t.me/hyperalchemy) or [Denver from Devfolio](https://t.me/denverjude) in the Telegram group if you have any question or issue.
+Please read the following information carefully, and reach out to [Ceci from ETHPrague team](https://t.me/hyperalchemy) or [Denver](https://t.me/denverjude), [Aniket](https://t.me/AniketRaj314), [Calvin](https://t.me/thisiscalvin) from Devfolio team in the Telegram group if you have any question or issue.
 {% endhint %}
 
 ### ETHPrague hackathon in **Devfolio:** [**hackathon.ethprague.com**](https://ethprague2023.devfolio.co)
