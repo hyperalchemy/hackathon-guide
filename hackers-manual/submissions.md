@@ -34,7 +34,7 @@ Follow these steps:
 
 ### **Create a profile in Devfolio** <a href="#create-profile" id="create-profile"></a>
 
-:information\_source: Regardless of whether you Submit Solo or Submit as a Team, you have to create a profile for yourself.
+:information\_source: Whether you submit the project(s) Solo or as a Team, you must create a profile for yourself.
 
 1. Go to [**hackathon.ethprague.com**](http://hackathon.ethprague.com)
 2. Click on **Apply to Hack**&#x20;
