@@ -6,7 +6,7 @@ Come with an open mind, a thirst for knowledge, and enthusiasm and we will take 
 
 Meals at the Hacker House:
 
-* **☕️** Breakfast: **9:00 AM** &#x20;
-* **🍝** Lunch: **1200 PM** &#x20;
-* **🥗** Dinner: **6:00 PM**&#x20;
-* 🥨 Midnight Snack: 11:00 PM
+* **☕️** Breakfast: **9:00 AM**  (Saturday & Sunday)
+* **🍝** Lunch: **1200 PM** (Saturday & Sunday)
+* **🥗** Dinner: **6:00 PM** (Friday & Saturday)
+* 🥨 Midnight Snack: 11:00 PM (Friday & Saturday)
