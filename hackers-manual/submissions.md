@@ -67,7 +67,9 @@ If you submit as a team, one member needs to create the team, and the others can
 * **Challenges I ran into** (mandatory)
 * **Technologies I used** (mandatory - 🚨 Important to apply for sponsor bounties! all info about sponsor bounties can be found [here](https://ethprague.gitbook.io/hackathon/hackers-manual/prizes-and-bounties/sponsored-bounties))
 
-💡 If you’re building for specific bounty remember to tag the technology used: _Scroll, The Graph, Chainsafe, API3, Taiko, Mantle, Gnosis Chain, Gateway, MakerDao, Aave, Zksync Era, Near, Optimism, Ethereum Foundation, Privacy & Scaling Explorations, Account Abstraction, Base, Lens Protocol, PWN_
+&#x20;:exclamation: **If you're building for a specific sponsor bounty, remember to tag the technology used.** :exclamation:
+
+AAVE, API3, BASE, CHAINSAFE, ETHEREUM FOUNDATION ACCOUNT ABSTRACTION, ETHEREUM FOUNDATION PRIVACY & SCALING EXPLORATIONS, GNOSIS CHAIN & GATEWAY, LENS PROTOCOL, MAKER DAO, MANTLE, NEAR, OPTIMISM, PWN, SCROLL, TAIKO, THE GRAPH, ZKSYNC ERA
 
 * **Links** (mandatory - here is where to add your repository, click “enter” to add a link)
 * **Video, Cover Image, Pictures, Logo** (not mandatory but highly recommended!)
