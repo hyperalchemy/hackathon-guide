@@ -35,7 +35,7 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 
 ### **Create a profile in Devfolio** <a href="#create-profile" id="create-profile"></a>
 
-:information\_source: Whether you submit the project(s) Solo or as a Team, you must create a profile for yourself.
+:information\_source: Whether you submit a project(s) Solo or join a Team, you must first create a profile for yourself.
 
 1. Go to [**hackathon.ethprague.com**](http://hackathon.ethprague.com)
 2. Click on **Apply to Hack**&#x20;
