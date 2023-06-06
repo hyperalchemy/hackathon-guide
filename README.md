@@ -20,7 +20,7 @@ description: Let’s build a Solarpunk future! 🌱
 
 &#x20;      the [Prague DeFi Summit](https://praguedefisummit.com/).
 
-&#x20;       **June 9:** registration will be available at both Paralelní Polis and the Hacker House.&#x20;
+&#x20;       **June 9:** hacker registration will be available at both Paralelní Polis and the Hacker House.&#x20;
 
 &#x20;      See [venues](https://www.notion.so/o/NNePclmRCTCGh9eRaBcj/s/MHoc6lgEAFfdHJ1GWAca/\~/changes/64/hackers-manual/venues) for more information.
 
