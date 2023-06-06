@@ -43,9 +43,9 @@ At this point your profile is created and you are in the ETHPrague hackathon das
 
 ### Form a team
 
-You can decide to **Submit Solo** or **Submit in a Team**
+You can choose to **Submit Solo** or **Submit as a Team**.
 
-If you Submit in Team you need one member to create the team, and the other will just add the team code in their dashboard.
+If you submit as a team, one member needs to create the team, and the others can simply add the team code to their dashboard.
 
 1. Click on **Submit in Team**
 2. One person per team will:
