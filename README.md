@@ -42,7 +42,7 @@ ETHPrague is both a conference and a hackathon. From June 9-11, you will have 24
 
 Technical [workshops](https://ethprague.com/schedule/) will be held at the Hacker House to provide easy access and help you learn new skills, get inspired, and motivated to build.
 
-The hackathon will host approximately 500 hackers, and only confirmed hackers will be eligible to compete for prizes and sponsored bounties.
+The hackathon will host more than 500 hackers, and only confirmed hackers will be eligible to compete for prizes and sponsored bounties.
 
 Please review the hackathon rules [here](hackers-manual/hackathon-rules.md).&#x20;
 
