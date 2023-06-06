@@ -10,11 +10,11 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 
 ### ETHPrague hackathon in **Devfolio:** [**hackathon.ethprague.com**](https://ethprague2023.devfolio.co)
 
-Devfolio documentation [https://guide.devfolio.co/hackers/participate/project-submission](https://guide.devfolio.co/hackers/participate/project-submission)
+**Devfolio documentation** [https://guide.devfolio.co/hackers/participate/project-submission](https://guide.devfolio.co/hackers/participate/project-submission)
 
-Devfolio FAQ for hackers [https://guide.devfolio.co/hackers/faqs](https://guide.devfolio.co/hackers/faqs)
+**Devfolio FAQ** for hackers [https://guide.devfolio.co/hackers/faqs](https://guide.devfolio.co/hackers/faqs)
 
-### **TL;DR;**
+### **TL;DR**
 
 * Apply to the ETHPrague hackathon on Devfolio, create your team (if you want to team up with others), and add your project. You can add more team members later as well.
 * To maximize your chances of winning and to be able to present in front of the judges\*, submit the first draft of your project by **June 10, 2023, Saturday, at 4:00 pm**.
@@ -41,7 +41,7 @@ Follow these steps:
 
 At this point your profile is created and you are in the ETHPrague hackathon dashboard.
 
-### Create a team
+### Form a team
 
 You can decide to **Submit Solo** or **Submit in Team**
 
