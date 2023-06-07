@@ -16,10 +16,11 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 
 ### **TL;DR**
 
-* Create a profile for yourself on Devfolio. Create your own team or join an existing team if you want to collaborate with others. You can add more team members to your team later as well. Create and add your project.
-* You can join to more teams, and one team can add and submit multiple projects.
-* To maximize your chances of winning and to be able to present in front of the judges\*, you must submit the first draft of your project on Devfolio by **June 10, 2023, Saturday, at 4:00 pm**.
-* Submit the final version of your project before **June 11, 2023, Sunday, 11:00 am**.
+* **Create a profile** for yourself and Apply on [Devfolio](https://hackathon.ethprague.com)&#x20;
+* **Create your own team or join an existing team** if you want to collaborate with others. You can add more team members to your team later as well.&#x20;
+* **Create and add your project**
+* **Submit the first draft** of your project on Devfolio by **June 10, 2023, Saturday, at 4:00 pm** to maximize your chances of winning and to be able to present in front of the judges&#x20;
+* **Submit the final version** of your project before **June 11, 2023, Sunday, 11:00 am**.
 
 **Follow these steps:**
 
@@ -32,6 +33,8 @@ Please read the following information carefully, and reach out to [Ceci from ETH
 [#sumbit-your-project](submissions.md#sumbit-your-project "mention")
 
 [#update-your-project-before-the-deadline](submissions.md#update-your-project-before-the-deadline "mention")
+
+
 
 ### **Create a profile in Devfolio** <a href="#create-profile" id="create-profile"></a>
 
@@ -79,7 +82,9 @@ AAVE, API3, BASE, CHAINSAFE, ETHEREUM FOUNDATION ACCOUNT ABSTRACTION, ETHEREUM F
 * **Links** (mandatory - here is where to add your repository, click “enter” to add a link)
 * **Video, Cover Image, Pictures, Logo** (not mandatory but highly recommended!)
 * **Select platform**: Web, Android, iOS, macOS (mandatory)
-* **Applicable tracks** (mandatory - 🚨 Select max 2 solarpunk tracks: these are the awards you’ll be eligible for. All info about solarpunk awards can be found [here](https://ethprague.gitbook.io/hackathon/hackers-manual/prizes-and-bounties/solarpunk-awards))
+* **Applicable tracks** (mandatory)
+
+🚨 Select max 2 solarpunk tracks: these are the awards you’ll be eligible for. All info about solarpunk awards can be found [here](https://ethprague.gitbook.io/hackathon/hackers-manual/prizes-and-bounties/solarpunk-awards)
 
 3. Click **Preview Submission**
 4. Click **Save Project**
@@ -116,6 +121,8 @@ Devfolio allows you to submit the project and continue editing as it keeps a his
 {% hint style="info" %}
 **Final** [**Submission Deadline: Sunday 11th at 11AM**](#user-content-fn-1)[^1]
 {% endhint %}
+
+
 
 **Example of a Project Submission Form:**
 
