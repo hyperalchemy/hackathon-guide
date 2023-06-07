@@ -129,7 +129,7 @@ TBA
 
 <summary>API3  🏆 5000 EUR</summary>
 
-TBA
+[Instructions](https://docs.google.com/document/d/1-aYVBrzWYuqdMcQVU8SFLJQJa9ES5YWeAo4cyplO4Ec/edit?usp=sharing)
 
 </details>
 
