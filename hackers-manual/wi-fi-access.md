@@ -1,8 +1,16 @@
+---
+description: Free Wi-Fi internet access will be available at all venues
+---
+
 # 📶 Wi-Fi Access
 
-Free Wi-Fi internet access will be available at all venues (Conference, Hacker House).
+Wi-Fi network in both locations (Conference, Hacker House):
 
-<mark style="color:red;">More details soon!</mark>
+**SSID**: Prague2023&#x20;
+
+**Password:** Serenity
+
+<figure><img src="../.gitbook/assets/WIFI.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ##
 
