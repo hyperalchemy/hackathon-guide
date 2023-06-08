@@ -40,5 +40,3 @@ There’s a big open area on the ground floor, a cool basement and other cozy wo
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-08 at 9.39.45.png" alt=""><figcaption></figcaption></figure>
 
-**Rest and sleep -** There will be room for resting and relaxing at the hacker house, but we still recommend having accommodations booked. There are many affordable options in Prague, and you can coordinate with fellow hackers in the Telegram group to share accommodations.
-
