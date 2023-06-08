@@ -2,7 +2,9 @@
 
 * [📘 Hacker Manual](README.md)
   * [🕗 Schedule](hackers-manual/schedule.md)
-  * [🏨 Venues](hackers-manual/venues.md)
+  * [🏨 Venues](hackers-manual/venues/README.md)
+    * [Hacker House](hackers-manual/venues/hacker-house.md)
+    * [Conference](hackers-manual/venues/conference.md)
   * [🍽 Food and drinks](hackers-manual/food-and-drinks.md)
   * [📶 Wi-Fi Access](hackers-manual/wi-fi-access.md)
   * [⚖ Hackathon Rules](hackers-manual/hackathon-rules.md)
