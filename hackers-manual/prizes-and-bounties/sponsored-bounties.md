@@ -14,11 +14,13 @@ Please note that they are also subject to change.
 
 <summary>TAIKO 🏆 5000 DAI</summary>
 
-Deploy on Taiko 🏆 2500 DAI
+Deploy on Taiko 🏆 2500 DAI (split among maximum top 5 projects)
 
 Infrastructure 🏆 2000 DAI
 
 Ethereum Public Goods 🏆 500 DAI
+
+[Instructions](https://taikoxyz.notion.site/Taiko-ETHPrague-bounties-49bfcf67ee434cf7a9956ca09b9dcfa4)
 
 </details>
 
