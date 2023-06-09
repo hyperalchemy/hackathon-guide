@@ -4,6 +4,8 @@ description: Make sure you mint your SBT!
 
 # 🗳 Quadratic Voting
 
+<figure><img src="../.gitbook/assets/ethprague_canvas_banner.jpeg" alt=""><figcaption></figcaption></figure>
+
 Upon on-site registration, each hackathon and conference attendee will receive a card with a one-time QR code to mint their unique ETHPrague Soulbound Token (SBT).
 
 Possession of this token will allow attendees and hackers to vote for their favorite project through quadratic voting.
