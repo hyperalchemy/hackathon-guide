@@ -107,7 +107,7 @@ Freestyle 🏆 2000 EUR
 
 <summary>ETHEREUM FOUNDATION: PRIVACY &#x26; SCALING EXPLORATIONS  🏆 5000 EUR</summary>
 
-TBA
+[Instructions](https://docs.google.com/document/d/102FHJL\_ENgbud2MCoF0t3bDcr4MJTaY0TaXhPa4hlwE/edit?usp=sharing)
 
 </details>
 
