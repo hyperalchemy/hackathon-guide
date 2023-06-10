@@ -36,7 +36,18 @@ Ethereum Public Goods 🏆 500 DAI
 
 <summary>SCROLL 🏆 5000 USD</summary>
 
-TBA
+Bounty Amount
+
+$5000 pool prize
+
+#### Bounty Split
+
+3x $1000 for best projects, $2000 pool prize
+
+#### Criteria
+
+* Project must be open-source, with contracts deployed and verified on Scroll’s Alpha Testnet
+* Must include the smart contract address in the readme, including 1 sentence about what the contract does.
 
 </details>
 
